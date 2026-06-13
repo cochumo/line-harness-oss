@@ -15,3 +15,7 @@ apps/web/out/
 apps/worker/dist/
 .worktrees/
 .claude/worktrees/
+
+# Manual setup runbook — local secrets & deploy state (never commit)
+setup.local.env
+scripts-local/.deploy-state.env
